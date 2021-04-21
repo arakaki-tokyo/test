@@ -8,7 +8,7 @@ PWAアプリとしてインストールすれば、オフラインでもご利�
 ### 活動を記録する
 最も基本的な使い方は、スタートボタンを押してストップボタンを押すだけです。
 
-<video controls autoplay loop src='video/howto_1.webm'></video>
+<video controls autoplay loop src='video/howto_1.webm' style="max-width: 100%"></video>
 
 - タイトルや詳細欄の入力は、活動の開始前でも開始後でも構いません。
 - 入力された情報はタブが閉じても保持されます。
@@ -16,4 +16,4 @@ PWAアプリとしてインストールすれば、オフラインでもご利�
 ### Google Calendarと同期する
 Googleアカウントでサインインしていただくと、活動はアカウントのGoogle Calendarに同期されます。
 
-<video controls autoplay loop src='video/howto_2.mp4'></video>
+<video controls autoplay loop src='video/howto_2.mp4' style="max-width: 100%"></video>
