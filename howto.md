@@ -1,6 +1,8 @@
 ## このアプリについて
 LoGoCaは活動の記録に特化したGoogle Calendarクライアントです。
+
 Googleアカウントでサインインしない場合でもご利用いただけます。
+
 PWAアプリとしてインストールすれば、オフラインでもご利用いただけます。
 
 ## 使い方
@@ -17,3 +19,19 @@ PWAアプリとしてインストールすれば、オフラインでもご利�
 Googleアカウントでサインインしていただくと、活動はアカウントのGoogle Calendarに同期されます。
 
 <video controls autoplay loop src='video/howto_2.mp4' style="max-width: 100%"></video>
+
+### 新しいカレンダーを作成する
+普段使っているカレンダーと、活動を記録するカレンダーを分けたい場合、新しいカレンダーを作成することができます。
+
+<video controls autoplay loop src='video/howto_3.webm' style="max-width: 100%"></video>
+
+### 今後の予定を取得する
+設定で予定の取得を有効化すると、その日のこれからの予定を表示することができます。
+
+<video controls autoplay loop src='video/howto_4.webm' style="max-width: 100%"></video>
+
+### ルーティンを作成する
+定期的に繰り返す活動はルーティンとして登録しておくことができます。
+
+<video controls autoplay loop src='video/howto_5.webm' style="max-width: 100%"></video>
+
