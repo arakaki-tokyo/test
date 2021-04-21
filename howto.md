@@ -35,3 +35,14 @@ Googleアカウントでサインインしていただくと、活動はアカ�
 
 <video controls autoplay loop src='video/howto_5.webm' style="max-width: 100%"></video>
 
+### 日記をつける
+ダイアリー機能を有効化すると、その日の日記をつけることができます。
+
+Google Calendarには「終日のイベント」として同期されます。
+
+<video controls autoplay loop src='video/howto_6.mp4' style="max-width: 100%"></video>
+
+### ToDoリストを使う
+Google ToDoリストと同期します。
+
+<video controls autoplay loop src='video/howto_7.webm' style="max-width: 100%"></video>
